@@ -282,19 +282,19 @@ Step-down Output- ──→ ESP32 GND
 ### Example Complete Setup
 
 ```
-┌─────────────────────────────────────────┐
-│         Oukitel P800E                   │
-│                                         │
-│  Battery ──[Voltage Divider]──→ GPIO36 │
-│  Input ────[SCT013]───────────→ GPIO34│
-│  Output ───[SCT013]───────────→ GPIO35│
-│  Buttons ──[Optocouplers]─────→ GPIO16-21│
-└─────────────────────────────────────────┘
+┌───────────────────────────────────────────┐
+│              Oukitel P800E                │
+│                                           │
+│  Battery ──[Voltage Divider]──→ GPIO36    │
+│  Input ────[SCT013]───────────→ GPIO34    │
+│  Output ───[SCT013]───────────→ GPIO35    │
+│  Buttons ──[Optocouplers]─────→ GPIO16-21 │
+└───────────────────────────────────────────┘
                     │
                     │
-         ┌──────────┴──────────┐
+         ┌──────────┴───────────┐
          │      ESP32 DevKit    │
-         │  Powered by 5V PSU  │
+         │  Powered by 5V PSU   │
          └──────────────────────┘
 ```
 ### Photos
