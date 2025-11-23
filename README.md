@@ -93,6 +93,14 @@ Advanced ESP32 firmware designed to transform the Oukitel P800E Power Station in
 
 ---
 
+## 🔧 Disassembly
+
+1. Remove the pads on the bottom of the power station.  
+2. Remove the screws as shown in the image below.  
+3. Slide off the top cover.
+
+![Disassembly Image](./assets/disassembly.bmp)
+
 ## 🔌 Wiring Guide
 
 ### Overview
