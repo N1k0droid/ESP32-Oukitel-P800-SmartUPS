@@ -25,7 +25,7 @@ Advanced ESP32 firmware designed to transform the Oukitel P800E Power Station in
 - [License](#-license)
 
 ---
-![Web Interface Image](./IMG/P800-Web.bmp)
+![Web Interface Image](/IMG/P800-Web.bmp)
 ---
 
 ## 🚀 Key Features
@@ -101,7 +101,7 @@ Advanced ESP32 firmware designed to transform the Oukitel P800E Power Station in
 2. Remove the screws as shown in the image below.  
 3. Slide off the top cover.
 
-![Disassembly Image](./IMG/P800-Disassembly.bmp)
+![Disassembly Image](/IMG/P800-Disassembly.bmp)
 
 ## 🔌 Wiring Guide
 
@@ -298,11 +298,11 @@ Step-down Output- ──→ ESP32 GND
          └──────────────────────┘
 ```
 ### Photos
-![Interface Image](./IMG/P800-Top-Boardl.bmp)
+![Interface Image](/IMG/P800-Top-Boardl.bmp)
 
-![Inside Image](./IMG/P800-Open-Top.bmp)
+![Inside Image](/IMG/P800-Open-Top.bmp)
 
-![Octo Buttons Image](./IMG/P800-Front-Panel.bmp)
+![Octo Buttons Image](/IMG/P800-Front-Panel.bmp)
 
 ---
 
