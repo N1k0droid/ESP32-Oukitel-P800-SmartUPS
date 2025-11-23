@@ -99,7 +99,7 @@ Advanced ESP32 firmware designed to transform the Oukitel P800E Power Station in
 2. Remove the screws as shown in the image below.  
 3. Slide off the top cover.
 
-![Disassembly Image](./assets/disassembly.bmp)
+![Disassembly Image](./P800-Disassembly.bmp)
 
 ## 🔌 Wiring Guide
 
@@ -109,6 +109,8 @@ The ESP32 interfaces with the Oukitel P800E through:
 1. **Current Sensors (SCT013)**: Clamp around power cables to measure current
 2. **Voltage Divider**: Connected to battery terminals to measure voltage
 3. **Optocouplers**: Isolated connections to physical buttons for remote control
+
+![Interface Image](./P800-Top-Boardl.bmp)
 
 ### Complete Pin Mapping
 
