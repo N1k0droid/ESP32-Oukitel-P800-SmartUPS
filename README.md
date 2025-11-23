@@ -110,8 +110,6 @@ The ESP32 interfaces with the Oukitel P800E through:
 2. **Voltage Divider**: Connected to battery terminals to measure voltage
 3. **Optocouplers**: Isolated connections to physical buttons for remote control
 
-![Interface Image](./P800-Top-Boardl.bmp)
-
 ### Complete Pin Mapping
 
 | ESP32 Pin | Component | Function | Notes |
@@ -297,6 +295,12 @@ Step-down Output- ──→ ESP32 GND
          │  Powered by 5V PSU  │
          └──────────────────────┘
 ```
+### Photos
+![Interface Image](./P800-Top-Boardl.bmp)
+
+![Inside Image](./P800-Open-Top.bmp)
+
+![Octo Buttons Image](./P800-Front-Panel.bmp)
 
 ---
 
