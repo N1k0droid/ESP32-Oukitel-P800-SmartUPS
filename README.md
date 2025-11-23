@@ -25,6 +25,8 @@ Advanced ESP32 firmware designed to transform the Oukitel P800E Power Station in
 - [License](#-license)
 
 ---
+![Web Interface Image](./P800-Web.bmp)
+---
 
 ## 🚀 Key Features
 
