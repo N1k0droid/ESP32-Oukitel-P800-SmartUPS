@@ -755,7 +755,7 @@ For more information, visit [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.ht
 ## 📞 Support
 
 For questions, issues, or contributions:
-- **GitHub Issues**: [Create an issue]([https://github.com/yourusername/oukitel-p800e-smart-controller/issues](https://github.com/N1k0droid/ESP32-Oukitel-P800-SmartUPS/issues))
+- **GitHub Issues**: [Create an issue](https://github.com/N1k0droid/ESP32-Oukitel-P800-SmartUPS/issues)
 
 ---
 
