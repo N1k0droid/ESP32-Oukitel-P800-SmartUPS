@@ -406,7 +406,7 @@ Before first compilation, review `config.h` for default settings:
    - **CPU Frequency**: 240MHz (default)
    - **Flash Frequency**: 80MHz
    - **Flash Size**: 4MB (3MB APP/1MB SPIFFS)
-   - **Partition Scheme**: Default 4MB with spiffs
+   - **Partition Scheme**: **Huge App (3MB No OTA/1MB SPIFFS)** *(Required due to firmware size and data logging needs)*
 
 3. **Upload Firmware**:
    - Click **Upload** (→) button
